@@ -1,0 +1,12 @@
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Domain\bin\Debug\net7.0\Property.Domain.deps.json
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Domain\bin\Debug\net7.0\Property.Domain.dll
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Domain\bin\Debug\net7.0\Property.Domain.pdb
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Domain\obj\Debug\net7.0\Property.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Domain\obj\Debug\net7.0\Property.Domain.AssemblyInfoInputs.cache
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Domain\obj\Debug\net7.0\Property.Domain.AssemblyInfo.cs
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Domain\obj\Debug\net7.0\Property.Domain.csproj.CoreCompileInputs.cache
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Domain\obj\Debug\net7.0\Property.Domain.dll
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Domain\obj\Debug\net7.0\refint\Property.Domain.dll
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Domain\obj\Debug\net7.0\Property.Domain.pdb
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Domain\obj\Debug\net7.0\ref\Property.Domain.dll
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Domain\obj\Debug\net7.0\Property.Domain.csproj.AssemblyReference.cache

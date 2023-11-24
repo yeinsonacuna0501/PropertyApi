@@ -1,0 +1,15 @@
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Dtos\bin\Debug\net7.0\Property.Application.Dtos.deps.json
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Dtos\bin\Debug\net7.0\Property.Application.Dtos.dll
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Dtos\bin\Debug\net7.0\Property.Application.Dtos.pdb
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Dtos\obj\Debug\net7.0\Property.Application.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Dtos\obj\Debug\net7.0\Property.Application.Dtos.AssemblyInfoInputs.cache
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Dtos\obj\Debug\net7.0\Property.Application.Dtos.AssemblyInfo.cs
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Dtos\obj\Debug\net7.0\Property.Application.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Dtos\obj\Debug\net7.0\Property.Application.Dtos.dll
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Dtos\obj\Debug\net7.0\refint\Property.Application.Dtos.dll
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Dtos\obj\Debug\net7.0\Property.Application.Dtos.pdb
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Dtos\obj\Debug\net7.0\ref\Property.Application.Dtos.dll
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Dtos\bin\Debug\net7.0\Property.Domain.dll
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Dtos\bin\Debug\net7.0\Property.Domain.pdb
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Dtos\obj\Debug\net7.0\Property.Application.Dtos.csproj.AssemblyReference.cache
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Dtos\obj\Debug\net7.0\Property.Application.Dtos.csproj.CopyComplete

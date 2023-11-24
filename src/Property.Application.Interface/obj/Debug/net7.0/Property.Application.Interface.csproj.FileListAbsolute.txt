@@ -1,0 +1,17 @@
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Interface\bin\Debug\net7.0\Property.Application.Interface.deps.json
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Interface\bin\Debug\net7.0\Property.Application.Interface.dll
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Interface\bin\Debug\net7.0\Property.Application.Interface.pdb
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Interface\bin\Debug\net7.0\Property.Domain.dll
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Interface\bin\Debug\net7.0\Property.Domain.pdb
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Interface\obj\Debug\net7.0\Property.Application.Interface.csproj.AssemblyReference.cache
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Interface\obj\Debug\net7.0\Property.Application.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Interface\obj\Debug\net7.0\Property.Application.Interface.AssemblyInfoInputs.cache
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Interface\obj\Debug\net7.0\Property.Application.Interface.AssemblyInfo.cs
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Interface\obj\Debug\net7.0\Property.Application.Interface.csproj.CoreCompileInputs.cache
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Interface\obj\Debug\net7.0\Property.Application.Interface.csproj.CopyComplete
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Interface\obj\Debug\net7.0\Property.Application.Interface.dll
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Interface\obj\Debug\net7.0\refint\Property.Application.Interface.dll
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Interface\obj\Debug\net7.0\Property.Application.Interface.pdb
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Interface\obj\Debug\net7.0\ref\Property.Application.Interface.dll
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Interface\bin\Debug\net7.0\Property.Application.Dtos.dll
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Application.Interface\bin\Debug\net7.0\Property.Application.Dtos.pdb

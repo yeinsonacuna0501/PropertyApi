@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1HUkSWVRBeYmJ3AhHoo4YSbxJoViWVeTHq5CQcO4F6juU9WfX46iaPgnciakkdOpFr6m3Xe9OEsJs3PmX9DvwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\katyu\\Documents\\ProyectosPersonales\\PropertyApi\\src\\Property.Application.Dtos\\Property.Application.Dtos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\katyu\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\katyu\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\katyu\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

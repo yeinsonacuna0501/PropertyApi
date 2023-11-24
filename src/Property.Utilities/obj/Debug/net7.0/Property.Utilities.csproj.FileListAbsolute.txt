@@ -1,0 +1,12 @@
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Utilities\bin\Debug\net7.0\Property.Utilities.deps.json
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Utilities\bin\Debug\net7.0\Property.Utilities.dll
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Utilities\bin\Debug\net7.0\Property.Utilities.pdb
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Utilities\obj\Debug\net7.0\Property.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Utilities\obj\Debug\net7.0\Property.Utilities.AssemblyInfoInputs.cache
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Utilities\obj\Debug\net7.0\Property.Utilities.AssemblyInfo.cs
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Utilities\obj\Debug\net7.0\Property.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Utilities\obj\Debug\net7.0\Property.Utilities.dll
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Utilities\obj\Debug\net7.0\refint\Property.Utilities.dll
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Utilities\obj\Debug\net7.0\Property.Utilities.pdb
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Utilities\obj\Debug\net7.0\ref\Property.Utilities.dll
+C:\Users\katyu\Documents\ProyectosPersonales\PropertyAPI\src\Property.Utilities\obj\Debug\net7.0\Property.Utilities.csproj.AssemblyReference.cache

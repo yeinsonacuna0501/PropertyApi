@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Property.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Property.Api.Controllers.OwnerController.ListOwner">
+            <summary>
+            Obtiene una lista de todos los propietarios.
+            </summary>
+        </member>
+        <member name="M:Property.Api.Controllers.OwnerController.OwnerById(System.Int32)">
+            <summary>
+            Obtiene información de un propietario por su ID.
+            </summary>
+            <param name="ownerId">ID del propietario.</param>
+        </member>
+        <member name="M:Property.Api.Controllers.OwnerController.RegisterOwner(Property.Application.UseCase.UseCases.Owner.Commands.CreateCommand.CreateOwnerPhotoCommand)">
+            <summary>
+            Registra un nuevo propietario con foto.
+            </summary>
+            <param name="ownerCommand">Datos del propietario y su foto.</param>
+        </member>
+        <member name="M:Property.Api.Controllers.OwnerController.EditOwner(Property.Application.UseCase.UseCases.Owner.Commands.UpdateCommand.UpdateOwnerPhotoCommand)">
+            <summary>
+            Edita un propietario existente con foto.
+            </summary>
+            <param name="ownerCommand">Datos del propietario y su foto.</param>
+        </member>
+        <member name="T:Property.Api.Controllers.PropertyController">
+            <summary>
+            API para administrar propiedades.
+            </summary>
+        </member>
+        <member name="M:Property.Api.Controllers.PropertyController.#ctor(MediatR.IMediator,Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Constructor de la clase PropertyController.
+            </summary>
+        </member>
+        <member name="M:Property.Api.Controllers.PropertyController.RegisterProperty(Property.Application.UseCase.UseCases.Property.Commands.CreateCommand.CreatePropertyCommand)">
+            <summary>
+            Registra una nueva propiedad.
+            </summary>
+        </member>
+        <member name="M:Property.Api.Controllers.PropertyController.EditProperty(Property.Application.UseCase.UseCases.Property.Commands.UpdateCommand.UpdatePropertyCommand)">
+            <summary>
+            Edita una propiedad existente.
+            </summary>
+        </member>
+        <member name="M:Property.Api.Controllers.PropertyController.ChangePriceProperty(Property.Application.UseCase.UseCases.Property.Commands.ChangePriceCommand.ChangePricePropertyCommand)">
+            <summary>
+            Cambia el precio de una propiedad.
+            </summary>
+        </member>
+        <member name="M:Property.Api.Controllers.PropertyController.AddImageProperty(Property.Application.UseCase.UseCases.Property.Commands.AddImageCommand.UploadImagePropertyCommand)">
+            <summary>
+            Agregar Imagen de una propiedad.
+            </summary>
+        </member>
+        <member name="M:Property.Api.Controllers.PropertyController.ListPropertyWithFilters(System.String)">
+            <summary>
+            Obtiene una lista de propiedades con filtros.
+            </summary>
+        </member>
+        <member name="M:Property.Api.Controllers.UserController.Login(Property.Application.UseCase.UseCases.User.Queries.GetLoginUser.GetUserLoginQuery)">
+            <summary>
+            Realiza la autenticación de un usuario.
+            </summary>
+            <remarks>
+            Proporciona el usuario y la contraseña para autenticar al usuario en el sistema.
+            </remarks>
+            <param name="login">Datos de inicio de sesión del usuario.</param>
+            <response code="201">Autenticación exitosa.</response>
+            <response code="400">Solicitud incorrecta.</response>
+            <response code="500">Error interno del servidor.</response>
+        </member>
+        <member name="T:Property.Api.Extensions.Middleware.MiddlewareExtensions">
+            <summary>
+            Clase  para agregar middleware a la canalización de solicitudes.
+            </summary>
+        </member>
+        <member name="M:Property.Api.Extensions.Middleware.MiddlewareExtensions.AddMiddleware(Microsoft.AspNetCore.Builder.IApplicationBuilder)">
+            <summary>
+            Método de extensión para agregar un middleware de validación a la canalización de solicitudes.
+            </summary>
+            <param name="builder">Constructor de aplicaciones web.</param>
+            <returns>Constructor de aplicaciones web con middleware de validación agregado.</returns>
+        </member>
+        <member name="T:Property.Api.Extensions.Middleware.ValidateMiddleware">
+            <summary>
+            Middleware encargado de la validación de excepciones.
+            </summary>
+        </member>
+        <member name="M:Property.Api.Extensions.Middleware.ValidateMiddleware.#ctor(Microsoft.AspNetCore.Http.RequestDelegate)">
+            <summary>
+            Constructor del middleware de validación.
+            </summary>
+            <param name="next">Delegado de solicitud siguiente en la canalización.</param>
+        </member>
+        <member name="M:Property.Api.Extensions.Middleware.ValidateMiddleware.Invoke(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            Método que realiza la invocación del middleware.
+            </summary>
+            <param name="context">Contexto HTTP de la solicitud.</param>
+        </member>
+    </members>
+</doc>
